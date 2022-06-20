@@ -2,7 +2,7 @@ from controllers.email import Email
 from controllers.config import Config
 
 
-listEMail = ['felipe.roque@cadmus.com.br', 'philipe.lima@cadmus.com.br', 'renata.ferreira@cadmus.com.br']
+listEMail = ['x', 'x', 'x']
 
 
 def start():
